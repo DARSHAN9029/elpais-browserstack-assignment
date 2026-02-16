@@ -39,3 +39,7 @@ python main.py
 ```bash
 browserstack-sdk python main.py
 ```
+
+## Screenshot of dashboard
+
+![alt text](image.png)
