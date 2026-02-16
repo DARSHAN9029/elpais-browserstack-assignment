@@ -4,7 +4,7 @@
 
 This project automates the following workflow:
 
-- Navigate to El País Opinion section
+- Navigate to El Pais Opinion section
 - Scrape first 5 opinion articles
 - Extract:
   - Article Title (Spanish)
@@ -21,7 +21,7 @@ This project automates the following workflow:
 - Python (base language)
 - Selenium
 - BeautifulSoup
-- RapidAPI (Translation)
+- RapidAPI (translation)
 - BrowserStack Automate SDK
 
 ---
